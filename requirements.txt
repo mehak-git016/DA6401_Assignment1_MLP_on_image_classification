@@ -1,0 +1,14 @@
+# Core numerical computing library
+numpy>=1.21.0
+
+# Machine learning utilities: metrics, confusion matrix
+scikit-learn>=0.24.2
+
+# Visualization
+matplotlib>=3.4.0
+
+# Experiment tracking and logging
+wandb>=0.12.0
+
+# For MNIST/Fashion-MNIST dataset loading (optional, falls back gracefully)
+tensorflow>=2.10.0
