@@ -1,0 +1,27 @@
+{
+    "dataset": "mnist",
+    "epochs": 10,
+    "batch_size": 64,
+    "loss": "mse",
+    "optimizer": "rmsprop",
+    "learning_rate": 0.003110199715274576,
+    "weight_decay": 0.0,
+    "num_layers": 4,
+    "hidden_size": [
+        128,
+        64,
+        64,
+        64
+    ],
+    "activation": "tanh",
+    "weight_init": "xavier",
+    "wandb_project": "DA6401_assign1",
+    "model_save_path": "best_model.npy",
+    "model_path": "best_model.npy",
+    "hidden_layers": [
+        128,
+        64,
+        64,
+        64
+    ]
+}
