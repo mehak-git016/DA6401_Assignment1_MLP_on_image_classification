@@ -6,7 +6,7 @@ MNIST (default) and Fashion-MNIST (for Task 2.10).
 
 ## Links
 
-- Weights & Biases report: [DA6401 Assign1 W&B](https://wandb.ai/mehakgupta/DA6401_assign1)
+- Weights & Biases report: [DA6401 Assign1 W&B]([https://wandb.ai/mehakgupta/DA6401_assign1](https://wandb.ai/ma25m016mehak-indian-institute-of-technology-madras/DA6401_assign1/reports/Assignment-1-Multi-Layer-Perceptron-for-Image-Classification--VmlldzoxNjEzNTcyOQ))
 - GitHub repository: [DA6401 Assignment Repo](https://github.com/mehak-git016/DA6401_Assignment1_MLP_on_image_classification)
 
 ## Important constraints followed
